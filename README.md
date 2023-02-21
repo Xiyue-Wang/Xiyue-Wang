@@ -7,7 +7,7 @@
 ### My Social Media 💬
 
 
-- Google Scholar: [@Xiyue Wang] (https://www.kaggle.com/scusywxy](https://scholar.google.com/citations?user=OxfZXwwAAAAJ&hl=zh-CN&authuser=1)
+- Google Scholar: [@Xiyue Wang](https://scholar.google.com/citations?user=OxfZXwwAAAAJ&hl=zh-CN&authuser=1)
 
 
 - Email: xiyue.wang.scu@gmail.com
