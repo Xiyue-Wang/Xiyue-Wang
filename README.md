@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Xiyue Wang </h1>
 
-# I am about to graduate with a PhD and am seeking a post-doctoral opportunity, please contact me if you are interested via email
+## I am about to graduate with a PhD and am seeking a post-doctoral opportunity, please contact me if you are interested via email
 
 ### My Social Media 💬
 
