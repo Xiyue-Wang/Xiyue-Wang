@@ -9,4 +9,4 @@
 - Google Scholar: [@Xiyue Wang](https://scholar.google.com/citations?user=OxfZXwwAAAAJ&hl=zh-CN&authuser=1)
 
 
-- Email: xiyue.wang.scu@gmail.com
+- Email: xiyue.wang.scu@gmail.com or xiyuew@stanford.edu
